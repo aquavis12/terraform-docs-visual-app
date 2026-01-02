@@ -33,13 +33,7 @@ Multi-cloud drag-and-drop tool to visualize your Terraform infrastructure change
 ## What You'll See
 
 ### Visual Architecture
-- **Hierarchical layout** with logical resource grouping:
-  - **Level 1**: Network & DNS (VPCs, Virtual Networks)
-  - **Level 2**: Subnets & Routing 
-  - **Level 3**: Security & Access (Security Groups, Firewalls)
-  - **Level 4**: Compute & Containers (VMs, Instances, Kubernetes)
-  - **Level 5**: Data & Storage (Databases, Storage Accounts)
-  - **Level 6**: Services & Monitoring
+- **Hierarchical layout** with logical resource grouping
 
 ### Smart Connections
 - **Real dependencies** extracted from your Terraform plan
@@ -109,5 +103,6 @@ Try it with the included `sample-terraform-plan.json` to see:
 - Accessibility-friendly design
 
 ---
+
 
 **Perfect for**: DevOps teams, Infrastructure architects, Terraform users, Cloud engineers, and anyone who wants to visualize and document their infrastructure changes before applying them.
